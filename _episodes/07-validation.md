@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Model Selection and Validation"
-teaching: 60
+teaching: 30
 exercises: 30
 questions:
 - "Key question (FIXME)"
