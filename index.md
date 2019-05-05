@@ -15,7 +15,7 @@ The focus of the workshop will on applications to scientific datasets with examp
 
 > ## Prerequisites
 >
-> FIXME
+> A Google account and a laptop.
 {: .prereq}
 
 {% include links.md %}
