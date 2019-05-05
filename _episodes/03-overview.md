@@ -3,13 +3,14 @@ title: "Machine Learning Overview"
 teaching: 60
 exercises: 30
 questions:
-- "Key question (FIXME)"
+- "How should I structure a ML project"
 objectives:
-- "First learning objective. (FIXME)"
+- "Demonstrate elements of a ML workflow"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "There are many elements to a ML project, the training and algorithms are a very small part of that."
 ---
-FIXME
+
+## [Automated classification of dolphin echolocation click types from the Gulf of Mexico](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005823)
 
 {% include links.md %}
 

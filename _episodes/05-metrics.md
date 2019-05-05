@@ -3,7 +3,7 @@ title: "Machine Learning Metrics for Performance"
 teaching: 60
 exercises: 30
 questions:
-- "Key question (FIXME)"
+- "How do I know if my model is correct?"
 objectives:
 - "Metrics for evaluating model performance"
 - "Use metrics to identify common problems in ML"
@@ -12,7 +12,7 @@ keypoints:
 - "Variance / bias trade off"
 ---
 
-Before the break we saw how machine learning can be useful and even reproduced some state-of-the-art ML results ourselves! Are these results good? How can we be sure our model is performing as best it can? In this episode we will introduce some metrics that are useful for guaging model performance and how we can use these to identify sources of error in our training pipeline.
+In this episode we will introduce some metrics that are useful for guaging model performance and how we can use these to identify sources of error in our training pipeline.
 
 ## Data
 

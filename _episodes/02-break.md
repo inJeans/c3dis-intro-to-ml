@@ -4,8 +4,6 @@ title: "Coffee Break"
 break: 30
 ---
 
-Use the `break` layout for placeholder episodes representing coffee breaks and lunches.
-These episodes do *not* have exercises, questions, objectives, or keypoints in their metadata,
-but *must* have a "break" field to show how long the break is (in minutes).
+![](../fig/coffee-01.png)
 
 {% include links.md %}

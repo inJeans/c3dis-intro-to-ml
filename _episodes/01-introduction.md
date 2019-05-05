@@ -15,27 +15,78 @@ keypoints:
 - "ML algorithms learn from data instead of being human-programmed"
 - "A large amount of quality data is essential for ML"
 ---
-What is ML?
+
+## Why to ML?
+
+> ## Fundamental
+> Science is fundamentally data driven.
+{: .callout}
+
+| ![](../fig/investigator.jpg) | 
+|:--:| 
+| RV Investigator |
+
+| ![](../fig/askap.jpg) | 
+|:--:| 
+| Australian Square Kilometer Array Pathfinder |
+
+| ![](../fig/energy.jpg) | 
+|:--:| 
+| Energy Sector |
+
+> ## Fast
+> Machine (Deep) Learning has become the poster child for fast, scalable, exascale compute.
+{: .callout}
+
+| ![](../fig/summit.jpg) | 
+|:--:| 
+| Summit Supercomputer |
+
+> ## Smart
+> Machine Learning is able to uncover insights in very complex systems without knowledge of the fundamental underlying models.
+{: .callout}
+
+| ![](../fig/aiml.jpg) | 
+|:--:| 
+| Machine Learning offers a purely data driven approach to scientific discovery. |
+
+## What is ML?
+
+FUJI or PINK LADY
+
+|![](../fig/fuji-01.jpg)|![](../fig/pink_lady-01.jpg)|![](../fig/fuji-04.jpg)|![](../fig/pink_lady-03.jpg)|
+|![](../fig/pink_lady-02.jpg)|![](../fig/fuji-03.jpg)|![](../fig/fuji-05.jpg)|![](../fig/pink_lady-04.jpg)|
+|![](../fig/fuji-02.jpg)|![](../fig/fuji-06.jpg)|![](../fig/pink_lady-06.jpg)|![](../fig/pink_lady-05.jpg)|
+
 - Traditional models are explicitly programmed
 -	ML algorithms are learned
 -	Therefore data is very important
-Exercises:
--	Give some examples of explicit programming
--	Give some examples of machine learning
-Why to ML?
--	Data vs. knowledge
--	Predicition vs. understanding
--	Interpretability
--	Applications in science and industry (with examples)
-When to ML? (+types)
--	Data requirements
--	Compute requirements
--	Desired outcomes
+-   Predicition vs. understanding
+-   Interpretability
+
+<!-- Exercises: -->
+<!-- -	Give some examples of explicit programming -->
+<!-- -	Give some examples of machine learning -->
+
+## When to ML?
+-	Data requirements: LOTS!!! The more the better. *Very* generally speaking you want on the order of 10-100 samples for each feature in your data. So for example in the image processing case where we have 128x128x3 pixels we would want on the order of 500,000 -> 5,000,000 samples.
+-	Compute requirements: In the case of deep learning the field is mostly focused on GPUs. 
+-	Desired outcomes: Supervised machine learning in particular isn't overly useful for providing insight into data. It is mostly designed for inferencing or predictions. Unsupervsied learning on the other hand offers the opportunity to uncover patterns and relationships in data that were previously unseen.
+
+## Types of ML
 -	Supervised (labelled data)
+     -  Classification
+     -  Regression
+![](../fig/cat_dog.png)
 -	Unsupervised (unlabelled data)
--	Classification
--	Regression
+     - Clustering / segmentation
+     - Dimension reduction
+![](../fig/cyber_security.jpg)
+- Reinforcement Learning
+     - Environemt, state, action 
+![](../fig/mit_robot.jpg)
 -	Deep learning
+![](../fig/deep_learning.jpg)
 
 
 {% include links.md %}
