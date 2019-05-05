@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-teaching: 90
+teaching: 60
 exercises: 30
 questions:
 - "Key question (FIXME)"
