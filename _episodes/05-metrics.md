@@ -22,10 +22,10 @@ It turns out, however, that the process of crystalising a protein is something o
 
 | Clear |
 :---------------------------:|:----------------------------:|:-----------------------------:|:-----------------------------:
-![](../fig/clear-01.jpg)  |  ![](../fig/clear-02.jpg) |  ![](../fig/clear-03.jpg)  |  ![](../fig/clear-04.jpg)
+![](../fig/clear-01.png)  |  ![](../fig/clear-02.png) |  ![](../fig/clear-03.png)  |  ![](../fig/clear-04.png)
 | Crystal |
 :---------------------------:|:----------------------------:|:-----------------------------:|:-----------------------------:
-![](../fig/crystals-01.jpg)  |  ![](../fig/crystals-02.jpg) |  ![](../fig/crystals-03.jpg)  |  ![](../fig/crystals-04.jpg)
+![](../fig/crystals-01.png)  |  ![](../fig/crystals-02.png) |  ![](../fig/crystals-03.png)  |  ![](../fig/crystals-04.png)
 
 First things first lets download these images into our Collabatory environment
 

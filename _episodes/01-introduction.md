@@ -22,15 +22,15 @@ keypoints:
 > Science is fundamentally data driven.
 {: .callout}
 
-| ![](../fig/investigator.jpg) | 
+| ![](../fig/investigator.png) | 
 |:--:| 
 | RV Investigator |
 
-| ![](../fig/askap.jpg) | 
+| ![](../fig/askap.png) | 
 |:--:| 
 | Australian Square Kilometer Array Pathfinder |
 
-| ![](../fig/energy.jpg) | 
+| ![](../fig/energy.png) | 
 |:--:| 
 | Energy Sector |
 
@@ -38,7 +38,7 @@ keypoints:
 > Machine (Deep) Learning has become the poster child for fast, scalable, exascale compute.
 {: .callout}
 
-| ![](../fig/summit.jpg) | 
+| ![](../fig/summit.png) | 
 |:--:| 
 | Summit Supercomputer |
 
@@ -46,7 +46,7 @@ keypoints:
 > Machine Learning is able to uncover insights in very complex systems without knowledge of the fundamental underlying models.
 {: .callout}
 
-| ![](../fig/aiml.jpg) | 
+| ![](../fig/aiml.png) | 
 |:--:| 
 | Machine Learning offers a purely data driven approach to scientific discovery. |
 
@@ -54,9 +54,9 @@ keypoints:
 
 FUJI or PINK LADY
 
-|![](../fig/fuji-01.jpg)|![](../fig/pink_lady-01.jpg)|![](../fig/fuji-04.jpg)|![](../fig/pink_lady-03.jpg)|
-|![](../fig/pink_lady-02.jpg)|![](../fig/fuji-03.jpg)|![](../fig/fuji-05.jpg)|![](../fig/pink_lady-04.jpg)|
-|![](../fig/fuji-02.jpg)|![](../fig/fuji-06.jpg)|![](../fig/pink_lady-06.jpg)|![](../fig/pink_lady-05.jpg)|
+|![](../fig/fuji-01.png)|![](../fig/pink_lady-01.png)|![](../fig/fuji-04.png)|![](../fig/pink_lady-03.png)|
+|![](../fig/pink_lady-02.png)|![](../fig/fuji-03.png)|![](../fig/fuji-05.png)|![](../fig/pink_lady-04.png)|
+|![](../fig/fuji-02.png)|![](../fig/fuji-06.png)|![](../fig/pink_lady-06.png)|![](../fig/pink_lady-05.png)|
 
 - Traditional models are explicitly programmed
 -	ML algorithms are learned
@@ -81,12 +81,12 @@ FUJI or PINK LADY
 -	Unsupervised (unlabelled data)
      - Clustering / segmentation
      - Dimension reduction
-![](../fig/cyber_security.jpg)
+![](../fig/cyber_security.png)
 - Reinforcement Learning
      - Environemt, state, action 
-![](../fig/mit_robot.jpg)
+![](../fig/mit_robot.png)
 -	Deep learning
-![](../fig/deep_learning.jpg)
+![](../fig/deep_learning.png)
 
 
 {% include links.md %}

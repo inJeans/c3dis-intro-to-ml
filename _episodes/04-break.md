@@ -4,6 +4,6 @@ title: "Lunch Break"
 break: 60
 ---
 
-![](../fig/lunch.jpg)
+![](../fig/lunch.png)
 
 {% include links.md %}
