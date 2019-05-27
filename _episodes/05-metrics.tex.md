@@ -147,7 +147,7 @@ With these definitions in mind we can build a collection of standard metrics:
 
 | Metric      | Formula                   |  `scikit-learn` Function |
 |:------------|:--------------------------|:-----------------------|
-| error       | (fp + fn) / N             | 1 - `metrics.accuracy_score` |
+| error       | $(f_p + f_n) / N$             | 1 - `metrics.accuracy_score` |
 | accuracy    | (tp + tn) / N = 1 - error | `metrics.accuracy_score` |
 |:------------|:--------------------------|:-----------------------|
 | tp-rate     | tp / p                    | `metrics.recall_score` |
